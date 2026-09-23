@@ -1,6 +1,4 @@
-import sys
-sys.stdin.reconfigure(encoding='utf-8')
-sys.stdout.reconfigure(encoding='utf-8')
+
 LANGUAGES = {
     "Esperanto": {'e':9,'a':12,'i':10,'n':8,'o':9,'r':6,'s':6,'t':5,'l':6,
                   'd':3,'u':3,'m':3,'p':3,'g':1,'k':4,'v':2,'f':1,'j':4},
